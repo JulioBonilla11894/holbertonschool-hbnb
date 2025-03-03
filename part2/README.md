@@ -1,15 +1,15 @@
-## Project: HBnB - BL and API
+# Project: HBnB - BL and API
 
-# Objective:
+## Objective:
 
 Creating a Web Application version of an Airbnb 
 
-# Description:
+## Description:
 
 This HBnB simulates a more simplified version of an Airbnb, due for it being full-stack web application.
 It also focuses on building s RESTful API with Flask, which adds a persistent data storage and structuring the app to be easy to scale and to maintain.
 
-## Project Structure
+# Project Structure
 
 ```
 hbnb/
