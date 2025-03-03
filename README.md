@@ -1,1 +1,1 @@
-Creating files for project: #HBnB - BL and API
+Creating files for project: HBnB - BL and API
