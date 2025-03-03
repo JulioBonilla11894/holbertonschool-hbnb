@@ -7,7 +7,18 @@ Creating a Web Application version of an Airbnb
 ## Description:
 
 This HBnB simulates a more simplified version of an Airbnb, due for it being full-stack web application.
+
 It also focuses on building s RESTful API with Flask, which adds a persistent data storage and structuring the app to be easy to scale and to maintain.
+
+## Feature:
+
+* Authentication and Management for users: Safe user sign-up, login and access management.
+
+* RESTful API: Endpoint versions for smooth integration with frontend or external services.
+
+* CRUD Operation: It can Create, Read, Update, and Delete functionalities for Places, Amenities, Users and Reviews.
+
+* Facade Pattern: It simplifies the service layer interactions 
 
 # Project Structure
 
@@ -41,3 +52,6 @@ hbnb/
 ├── README.md
 ```
 
+# Contributors:
+
+* Julio J. Bonilla Chaparro
